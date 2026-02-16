@@ -1,4 +1,4 @@
-# Work projects overview:
+# Pet projects overview:
 
 [Samples](https://github.com/Q847374637/Samples/tree/main)
 
@@ -15,8 +15,6 @@ A small program for .xlsx files preprocessing for desktop application load.
 [PlastiQ](https://github.com/Q847374637/PlastiQ/tree/main)
 
 Software for pre-processing daily files and applying various necessary queries to their data.
-
-# Personal projects overview:
 
 [KeyPointsJavaCourse](https://github.com/Q847374637/TestMonitoring)
 
