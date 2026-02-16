@@ -1,4 +1,4 @@
-# Pet projects overview:
+# Pet-projects overview:
 
 [Samples](https://github.com/Q847374637/Samples/tree/main)
 
